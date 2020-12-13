@@ -3,12 +3,12 @@
 [Presentation Topics](#Presentation-Topics)
 
 
-+ [C. elegans swimming and crawling](C.-elegans-swimming-and-crawling)
++ [C. elegans swimming and crawling](C-elegans-swimming-and-crawling)
 + [Week 2 - Exploratory Phase (part 2)](week2)
 + [Week 3 - Hypothesis Testing Phase](week3)
 + [Week 4 - Scientific Communication Phase](week4)
 
-[Background Reading](#background-reading)
+
 
 
 ## Presentation Topics
@@ -16,6 +16,12 @@
 ### C. elegans swimming and crawling
 
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
+
++ [Tangling of tethered swimmers](https://doi.org/10.1103/PhysRevLett.113.138101)
+
++ [Reorientation behaviors](https://doi.org/10.7554/eLife.17227)
+
+
 
 ~~reinforce concepts you are learning in Ph51~~ ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
 
