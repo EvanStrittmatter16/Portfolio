@@ -13,7 +13,7 @@
 
 ## Presentation Topics
 
-### C. elegans swimming and crawling
+### C elegans swimming and crawling
 
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
 
