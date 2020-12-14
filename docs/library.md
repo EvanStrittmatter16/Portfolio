@@ -4,7 +4,7 @@ Advice for acting journal links. Many of these links will require you to connect
 
 [Presentation Topics](#presentation-topics)
 
-+ [Low Reynold's Number](#low-reynold-number)
++ [Life at Low Reynold's Number](#low-reynold-number)
 + [C. elegans swimming and crawling](#c-elegans-swimming-and-crawling)
 + [Size Scaling](#size-scaling)
 + [Ant Raft](#ant-rafts)
@@ -16,6 +16,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Crowds](#crowds)
 + [Swimming](#swimming)
 + [Jellyfish stingers](#jellyfish-stingers)
++ [Biochemical Sensors](#biosensors)
 + [Bio-inspired therapeutics and nanomedicine](#nanomedicine)
 + [Mechanobiology](#mechanobiology)
 
@@ -23,6 +24,8 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ## Low Reynold Number
 + [Life at Low Reynold's Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
++ [Biotechnology at Low Reynold's Numbers](papers/Brody_BiophyJ1996.pdf)
++ [Microfluidics: Fluid Physics at the Nanoscale](papers/Squires&Quake_RMPhys2005.pdf)
 
 ## C elegans swimming and crawling
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
@@ -96,6 +99,10 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
 + [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
 + [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
+
+### Biosensors
++ [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf)
++ [Considerations for biochemical sensing]
 
 ### Nanomedicine
 + [Magnetotactice bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
