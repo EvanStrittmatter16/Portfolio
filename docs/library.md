@@ -4,7 +4,7 @@ Advice for acting journal links. Many of these links will require you to connect
 
 [Presentation Topics](#Presentation-Topics)
 
-+ [Low Reynold's Number](Low-Reynold-number)
++ [Low Reynold's Number](#Low-Reynold-number)
 + [C. elegans swimming and crawling](#C-elegans-swimming-and-crawling)
 + [Size Scaling](#Size-scaling)
 + [Ant Raft](#Ant-rafts)
@@ -21,10 +21,10 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ## Presentation Topics
 
-### Low Reynold Number
+## Low Reynold Number
 + [Life at Low Reynold's Number](images/Purcell_AJPhys1977.pdf){:target="_blank"}
 
-### C elegans swimming and crawling
+## C elegans swimming and crawling
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
 + [Tangling of tethered swimmers](https://doi.org/10.1103/PhysRevLett.113.138101){:target="_blank"}
 + [Reorientation behaviors](https://doi.org/10.7554/eLife.17227){:target="_blank"}
