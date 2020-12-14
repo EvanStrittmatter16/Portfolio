@@ -24,8 +24,8 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ## Low Reynold Number
 + [Life at Low Reynold's Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
-+ [Biotechnology at Low Reynold's Numbers](papers/Brody_BiophyJ1996.pdf)
-+ [Microfluidics: Fluid Physics at the Nanoscale](papers/Squires&Quake_RMPhys2005.pdf)
++ [Biotechnology at Low Reynold's Numbers](papers/Brody_BiophyJ1996.pdf){:target="_blank"}
++ [Microfluidics: Fluid Physics at the Nanoscale](papers/Squires&Quake_RMPhys2005.pdf){:target="_blank"}
 
 ## C elegans swimming and crawling
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
@@ -101,16 +101,16 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
 
 ### Biosensors
-+ [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf)
-+ [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf)
-+ [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837)
-+ [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/)
-+ [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769)
-+ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf)
++ [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf){:target="_blank"}
++ [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf){:target="_blank"}
++ [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837){:target="_blank"}
++ [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/){:target="_blank"}
++ [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769){:target="_blank"}
++ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
 
 ### Nanomedicine
 + [Magnetotactice bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
-+ [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273)
++ [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273){:target="_blank"}
 
 ### Mechanobiology
 + [Mechanobiology](https://linkinghub.elsevier.com/retrieve/pii/S0167488915001536){:target="_blank"}
