@@ -102,7 +102,7 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ### Biosensors
 + [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf)
-+ [Considerations for biochemical sensing]
++ [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf)
 
 ### Nanomedicine
 + [Magnetotactice bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
