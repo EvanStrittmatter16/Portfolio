@@ -1,3 +1,4 @@
 # Physics 174 
 
-+ [Reference library](library)
++ [library of Reference Papers for Presentations](library)
++ [Additional Background Reference Materisal](references)
