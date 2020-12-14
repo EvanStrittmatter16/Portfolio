@@ -17,7 +17,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Swimming](#swimming)
 + [Jellyfish stingers](#jellyfish-stingers)
 + [Biochemical Sensors](#biosensors)
-+ [Bio-inspired therapeutics and nanomedicine](#nanomedicine)
++ [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
 + [Mechanobiology](#mechanobiology)
 
 ## Presentation Topics
@@ -111,6 +111,7 @@ Advice for acting journal links. Many of these links will require you to connect
 ### Nanomedicine
 + [Magnetotactice bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
 + [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273){:target="_blank"}
++ [Microbial nanowires](https://www.nature.com/articles/s41589-020-0623-9.epdf){:target="_blank"}. Discussion of this article in the [popular press](https://www.syfy.com/syfywire/these-bacteria-geobacter-exhale-electricity){:target="_blank"}
 
 ### Mechanobiology
 + [Mechanobiology](https://linkinghub.elsevier.com/retrieve/pii/S0167488915001536){:target="_blank"}
