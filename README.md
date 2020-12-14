@@ -13,5 +13,4 @@ Take a look a the raw markdown file for how to format the "\<details>" tag.
 
 </details>
 
-## Instructor Brainstorming For Module 1 Improvements
-- make it clearer that students will need to propagate SEM in Week 3
+
