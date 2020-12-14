@@ -22,7 +22,7 @@ Advice for acting journal links. Many of these links will require you to connect
 ## Presentation Topics
 
 ## Low Reynold Number
-+ [Life at Low Reynold's Number](images/Purcell_AJPhys1977.pdf){:target="_blank"}
++ [Life at Low Reynold's Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
 
 ## C elegans swimming and crawling
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
