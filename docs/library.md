@@ -2,12 +2,12 @@
 
 Advice for acting journal links. Many of these links will require you to connect through VPN to verify your HMC credentials (or other Claremont college) in order to access library subscriptions. 
 
-[Presentation Topics](#Presentation-Topics)
+[Presentation Topics](#presentation-topics)
 
-+ [Low Reynold's Number](#Low-Reynold-number)
-+ [C. elegans swimming and crawling](#C-elegans-swimming-and-crawling)
-+ [Size Scaling](#Size-scaling)
-+ [Ant Raft](#Ant-rafts)
++ [Low Reynold's Number](#low-reynold-number)
++ [C. elegans swimming and crawling](#c-elegans-swimming-and-crawling)
++ [Size Scaling](#size-scaling)
++ [Ant Raft](#ant-rafts)
 + [Surface tension, swimming, jumping out of water](#Surface-tension-and-jumping)
 + [Bio-inspired Robotics](#Bioinspired-robotics)
 + [Biological springs](#Biological-springs)
