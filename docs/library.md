@@ -103,9 +103,14 @@ Advice for acting journal links. Many of these links will require you to connect
 ### Biosensors
 + [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf)
 + [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf)
++ [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837)
++ [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/)
++ [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769)
++ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf)
 
 ### Nanomedicine
 + [Magnetotactice bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
++ [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273)
 
 ### Mechanobiology
 + [Mechanobiology](https://linkinghub.elsevier.com/retrieve/pii/S0167488915001536){:target="_blank"}
