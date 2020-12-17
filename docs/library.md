@@ -14,7 +14,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Gecko and Insect Adhesion](#gecko-and-insect-adhesion)
 + [Active Matter](#active-matter)
 + [Crowds](#crowds)
-+ [Swimming](#swimming)
++ [Swimming and flying](#swimming-and-flying)
 + [Jellyfish stingers](#jellyfish-stingers)
 + [Biochemical Sensors](#biosensors)
 + [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
@@ -90,10 +90,11 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Power law governing pedestrian interactions](https://link.aps.org/doi/10.1103/PhysRevLett.113.238701){:target="_blank"}
 + [Crowds](https://doi.org/10.1126/science.aat9891){:target="_blank"}
 
-### Swimming
+### Swimming and flying
 + [Swimming microorganisms](http://stacks.iop.org/0034-4885/72/i=9/a=096601?key=crossref.736a5c13368e75b7395f94099aead8e4){:target="_blank"}
 + [Scaling Aquatic locomotion](http://www.nature.com/articles/nphys3078){:target="_blank"}
 + [Swimming fish](https://doi.org/10.1146/annurev-marine-010814-015614){:target="_blank"}
++ [Powered flight](https://jeb.biologists.org/content/jexbio/214/24/4073.full.pdf){:target="_blank"}
 
 ### Jellyfish Stingers
 + [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
