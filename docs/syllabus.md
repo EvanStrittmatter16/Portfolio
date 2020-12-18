@@ -1,7 +1,8 @@
 # Physics 174: Biophysics
 
 Jessica Arlett: jarlett@hmc.edu
-[Classroom discussion board](https://join.slack.com/t/g-v0c9269/shared_invite/zt-k4lw8ayu-QAuqdJdQMstuSJ9CYWGRpA)
+
+Classroom discussion board ([Slack](https://join.slack.com/t/g-v0c9269/shared_invite/zt-k4lw8ayu-QAuqdJdQMstuSJ9CYWGRpA))
 
 
 <img src="images/Schedule.png" alt="schedule" width=600 />
@@ -42,9 +43,16 @@ Your final grade will be evaluated based on a weighted average of the following
 ## Journal Articles
 Journal articles are available [here](https://jlarlett.github.io/Ph174/library). A link to the repository of articles is also provided on the course Sakai site. Please note that some journals require you to log in through VPN to access campus journal subscriptions. Step-by-step instructions for connecting to HMC VPN are available [here](https://www.hmc.edu/cis/services/vpn/).
 
+# The Writing Center
+The Writing Center provides a welcoming virtual space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the writing center. You may schedule an online appointment through their
+website, https://www.hmc.edu/learning-programs/writing-center/
+
 ## Accommodations
 
-Harvey Mudd College strives to make all learning experiences as accessible as possible. If you anticipate or experience academic barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can privately discuss options. You also need to register with the Office of Disability Resources to establish reasonable accommodations. After registration, make arrangements with me as soon as possible to discuss your accommodations so that they may be implemented in a timely fashion. Contact Brandon Ice, Student Accommodation Advisor, via email bice@hmc.edu or phone 909.607.3148 with any questions. Students from the other Claremont Colleges should contact their home college's disability officer.
+HMC is committed to providing an inclusive learning environment and support for all students. Given our current online learning environment, we recognize that the challenges facing students are different and student accommodation needs may change. Students with a disability (including mental health, chronic or temporary medical conditions) who may need some
+accommodation in order to fully participate in this class are encouraged to contact Educational
+Accessibility Services at ability@g.hmc.edu to request accommodations. Students from the
+other Claremont Colleges should contact their home college's disability resources officer. 
 
 ## Wellness
 
@@ -52,4 +60,4 @@ Please let me know in advance of a missed class if possible, or as soon as you c
 
 ## Belonging
 
-BelongingEveryone who is registered for this course belongs here and has valuable contributions to make to our class. Our diversity of backgrounds, experiences, and viewpoints will enrich theclassroom, and our mutual respect will grant us all the grace to make mistakes and learn from them.
+Everyone who is registered for this course belongs here and has valuable contributions to make to our class. Our diversity of backgrounds, experiences, and viewpoints will enrich the classroom, and our mutual respect will enable us to feel comfortable making mistakes and learning from them.
