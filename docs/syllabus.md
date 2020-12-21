@@ -40,6 +40,25 @@ Your final grade will be evaluated based on a weighted average of the following
 + 15% active reading journal
 + 15% in-class participation
 
+## Assignments, Submissions and Late Policy
+
+Homework 1: Submission will be through Gradescope. 
+
+Late policy for homework 1:
+Up to 6 hours late: 5%
+Up to 24 hours late: 10%
+Up to 48 hours late: 15%
+Up to 72 hours late: 20%
+
+Presentations:
+You will be expected to give two twenty minute presentations on the scheduled dates.
+
+Active reading journal:
+You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2-3 papers per class period). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
+
+## Collaboration
+You may freely discuss the homework and papers with your classmates, including getting help and advice on your presentation and actively reading papers together. However, the submitted homework and reading journal should be prepared/written up individually.
+
 ## Journal Articles
 Journal articles are available [here](https://jlarlett.github.io/Ph174/library). A link to the repository of articles is also provided on the course Sakai site. Please note that some journals require you to log in through VPN to access campus journal subscriptions. Step-by-step instructions for connecting to HMC VPN are available [here](https://www.hmc.edu/cis/services/vpn/).
 
