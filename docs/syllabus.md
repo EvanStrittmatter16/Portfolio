@@ -5,7 +5,7 @@ Jessica Arlett: jarlett@hmc.edu
 Classroom discussion board ([Slack](https://join.slack.com/t/g-v0c9269/shared_invite/zt-k4lw8ayu-QAuqdJdQMstuSJ9CYWGRpA))
 
 
-<img src="images/Schedule.png" alt="schedule" width=600 />
+<img src="images/Schedule.png" alt="schedule" width=900 />
 
 ## Course Description
 
