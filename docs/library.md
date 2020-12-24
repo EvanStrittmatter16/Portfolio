@@ -80,7 +80,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Mechanics of Active Matter](https://doi.org/10.1146/annurev-conmatphys-070909-104101){:target="_blank"}
 + [Response of insect swarms to perturbations](https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0739){:target="_blank"}
 + [Active tissue mechanics](http://www.nature.com/articles/s41578-018-0066-z){:target="_blank"}
-+ [Intercations and animal collective behavior](http://www.pnas.org/cgi/doi/10.1073/pnas.0711437105){:target="_blank"}
++ [Interactions and animal collective behavior](http://www.pnas.org/cgi/doi/10.1073/pnas.0711437105){:target="_blank"}
 + [Collective motion](http://www.sciencedirect.com/science/article/pii/S0370157312000968){:target="_blank"}
 + [Mechanical and statistical properties of living matter](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.85.1143){:target="_blank"}
 
@@ -111,7 +111,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Functional Imaging](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0896627320307674?casa_token=tnXTNiD6YEoAAAAA:PTdTDZeZH-Jc9I1Ln4wXnAxKtGmOoariK41JUqoFZUoKK_5d_wUeEma_HT6Yak3zgzURihLEOcM)
 
 ### Nanomedicine
-+ [Magnetotactice bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
++ [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
 + [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273){:target="_blank"}
 + [Microbial nanowires](https://www.nature.com/articles/s41589-020-0623-9.epdf){:target="_blank"}. Discussion of this article in the [popular press](https://www.syfy.com/syfywire/these-bacteria-geobacter-exhale-electricity){:target="_blank"}
 
