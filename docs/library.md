@@ -4,7 +4,7 @@ Advice for acting journal links. Many of these links will require you to connect
 
 [Presentation Topics](#presentation-topics)
 
-+ [Life at Low Reynold's Number](#low-reynold-number)
++ [Life at Low Reynolds' Number](#low-reynolds-number)
 + [C. elegans swimming and crawling](#c-elegans-swimming-and-crawling)
 + [Size Scaling](#size-scaling)
 + [Ant Raft](#ant-rafts)
@@ -22,8 +22,8 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ## Presentation Topics
 
-## Low Reynold Number
-+ [Life at Low Reynold's Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
+## Low Reynolds Number
++ [Life at Low Reynolds' Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
 + [Biotechnology at Low Reynold's Numbers](papers/Brody_BiophyJ1996.pdf){:target="_blank"}
 + [Microfluidics: Fluid Physics at the Nanoscale](papers/Squires&Quake_RMPhys2005.pdf){:target="_blank"}
 
