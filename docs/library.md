@@ -30,7 +30,6 @@ Advice for acting journal links. Many of these links will require you to connect
 ## C elegans swimming and crawling
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
 + [Tangling of tethered swimmers](https://doi.org/10.1103/PhysRevLett.113.138101){:target="_blank"}
-+ [Reorientation behaviors](https://doi.org/10.7554/eLife.17227){:target="_blank"}
 + [Neurobiology of Locomotion](10.1093/biosci/biu058){:target="_blank"}
 + [Timescales and stereotyped behavior](https://doi.org/10.1073/pnas.1007868108){:target="_blank"}
 + [Dimensionality and dynamics](10.1371/journal.pcbi.1000028){:target="_blank"}
