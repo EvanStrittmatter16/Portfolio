@@ -19,6 +19,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Biochemical Sensors](#biosensors)
 + [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
 + [Mechanobiology](#mechanobiology)
++ [Biological clocks and metabolic activity](#biological clocks and metabolic activity)
 
 ## Presentation Topics
 
@@ -124,5 +125,6 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Phototaxis - light induced motility](https://www.nature.com/articles/nphys4258){:target="_blank"}
 
 
-### Biological Clocks
-+ [Biological Clocks](https://www.nature.com/articles/s41598-020-73566-3)
+### Biological Clocks and Metabolic Activity
++ [Biological Clocks](https://www.nature.com/articles/s41598-020-73566-3){:target="_blank"}
++ [Metabolic activity of C. elegans](https://www.nature.com/articles/s41467-020-16690-y){:target="_blank"}
