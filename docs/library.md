@@ -40,12 +40,6 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Force per Area](https://royalsocietypublishing.org/doi/full/10.1098/rsos.160313){:target="_blank"}
 + [Urination](https://www.pnas.org/content/111/33/11932){:target="_blank"}
 
-### Ant rafts
-+ [Ant rafts to escape floods](http://www.pnas.org/cgi/doi/10.1073/pnas.1016658108){:target="_blank"}
-+ [Viscoelasticity of ant rafts](https://www.nature.com/articles/nmat4450){:target="_blank"}
-+ [Ant towers](http://hu.gatech.edu/wp-content/uploads/2017/07/Hu17-tower.pdf){:target="_blank"}
-+ [Entangled active matter](http://link.springer.com/10.1140/epjst/e2015-50264-4){:target="_blank"}
-
 ### Surface tension and jumping
 + [Jumping out of water](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0014){:target="_blank"}
 + [Walking on water](https://doi.org/10.1146/annurev.fluid.38.050304.092157){:target="_blank"}
@@ -53,6 +47,20 @@ Advice for acting journal links. Many of these links will require you to connect
 + [hydrodynamics of water strider locomotion](https://www.nature.com/articles/nature01793){:target="_blank"}
 + [Swimming beetles](https://www.jstor.org/stable/1727630){:target="_blank"}
 + [How suckerfish stay on whales](https://jeb.biologists.org/content/223/20/jeb226654){:target="_blank"} This article can be suplemented with a [NYtimes highlight](https://www.nytimes.com/2020/10/29/science/remoras-suckerfish-whales.html?surface=home-discovery-vi-prg&amp;fellback=false&amp;req_id=300488013&amp;algo=identity&amp;imp_id=481468989&amp;action=click&amp;module=Science%20%20Technology&amp;pgtype=Homepage){:target="_blank"}
+
+### Swimming Jumping and Flying
++ [Swimming microorganisms](http://stacks.iop.org/0034-4885/72/i=9/a=096601?key=crossref.736a5c13368e75b7395f94099aead8e4){:target="_blank"}
++ [Scaling Aquatic locomotion](http://www.nature.com/articles/nphys3078){:target="_blank"}
++ [Swimming fish](https://doi.org/10.1146/annurev-marine-010814-015614){:target="_blank"}
++ [Jumping: Optimal Leap Angle for Insects](papers/Optimal_leap_angle_of_legged_and_legless_insects_i.pdf){:target="_blank"}
++ [Powered flight](https://jeb.biologists.org/content/jexbio/214/24/4073.full.pdf){:target="_blank"}
+
+### Gecko and Insect Adhesion
++ [Van der Waals Adhesions in Gecko Setae](http://www.pnas.org/cgi/doi/10.1073/pnas.192252799){:target="_blank"}
++ [Gecko Adhesion as a Model](https://doi.org/10.1146/annurev-ecolsys-120213-091839){:target="_blank"}
++ [Scaling Gecko-like Adhesion](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201104191){:target="_blank"}
++ [Gecko adhesion underwater](http://www.pnas.org/cgi/doi/10.1073/pnas.1219317110){:target="_blank"}
++ [Adhesive footpads of climbing insects](https://royalsocietypublishing.org/doi/10.1098/rsif.2016.0371){:target="_blank"}
 
 ### Bioinspired Robotics
 + [Insect Inspired Flight](http://science.sciencemag.org/content/340/6132/603){:target="_blank"}
@@ -69,12 +77,12 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Shooting mechanisms in nature](http://dx.plos.org/10.1371/journal.pone.0158277){:target="_blank"}
 + [Insect jumping springs](http://www.sciencedirect.com/science/article/pii/S0960982217315336){:target="_blank"}
 
-### Gecko and Insect Adhesion
-+ [Van der Waals Adhesions in Gecko Setae](http://www.pnas.org/cgi/doi/10.1073/pnas.192252799){:target="_blank"}
-+ [Gecko Adhesion as a Model](https://doi.org/10.1146/annurev-ecolsys-120213-091839){:target="_blank"}
-+ [Scaling Gecko-like Adhesion](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201104191){:target="_blank"}
-+ [Gecko adhesion underwater](http://www.pnas.org/cgi/doi/10.1073/pnas.1219317110){:target="_blank"}
-+ [Adhesive footpads of climbing insects](https://royalsocietypublishing.org/doi/10.1098/rsif.2016.0371){:target="_blank"}
+
+### Ant rafts
++ [Ant rafts to escape floods](http://www.pnas.org/cgi/doi/10.1073/pnas.1016658108){:target="_blank"}
++ [Viscoelasticity of ant rafts](https://www.nature.com/articles/nmat4450){:target="_blank"}
++ [Ant towers](http://hu.gatech.edu/wp-content/uploads/2017/07/Hu17-tower.pdf){:target="_blank"}
++ [Entangled active matter](http://link.springer.com/10.1140/epjst/e2015-50264-4){:target="_blank"}
 
 ### Active Matter
 + [Mechanics of Active Matter](https://doi.org/10.1146/annurev-conmatphys-070909-104101){:target="_blank"}
@@ -90,12 +98,6 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Power law governing pedestrian interactions](https://link.aps.org/doi/10.1103/PhysRevLett.113.238701){:target="_blank"}
 + [Crowds](https://doi.org/10.1126/science.aat9891){:target="_blank"}
 
-### Swimming Jumping and Flying
-+ [Swimming microorganisms](http://stacks.iop.org/0034-4885/72/i=9/a=096601?key=crossref.736a5c13368e75b7395f94099aead8e4){:target="_blank"}
-+ [Scaling Aquatic locomotion](http://www.nature.com/articles/nphys3078){:target="_blank"}
-+ [Swimming fish](https://doi.org/10.1146/annurev-marine-010814-015614){:target="_blank"}
-+ [Jumping: Optimal Leap Angle for Insects](papers/Optimal_leap_angle_of_legged_and_legless_insects_i.pdf){:target="_blank"}
-+ [Powered flight](https://jeb.biologists.org/content/jexbio/214/24/4073.full.pdf){:target="_blank"}
 
 ### Jellyfish Stingers
 + [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
