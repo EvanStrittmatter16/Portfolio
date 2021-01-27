@@ -94,7 +94,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Swimming microorganisms](http://stacks.iop.org/0034-4885/72/i=9/a=096601?key=crossref.736a5c13368e75b7395f94099aead8e4){:target="_blank"}
 + [Scaling Aquatic locomotion](http://www.nature.com/articles/nphys3078){:target="_blank"}
 + [Swimming fish](https://doi.org/10.1146/annurev-marine-010814-015614){:target="_blank"}
-+ [Jumping: Optimal Leap Angle for Insects]
++ [Jumping: Optimal Leap Angle for Insects](papers/Optimal_leap_angle_of_legged_and_legless_insects_i.pdf){:target="_blank"}
 + [Powered flight](https://jeb.biologists.org/content/jexbio/214/24/4073.full.pdf){:target="_blank"}
 
 ### Jellyfish Stingers
