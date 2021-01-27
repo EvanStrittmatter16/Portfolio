@@ -69,6 +69,15 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Using robots to investigate agile motion](http://www.sciencemag.org/cgi/doi/10.1126/science.1254486){:target="_blank"}
 + [Robotics inspired biology](http://jeb.biologists.org/content/221/7/jeb138438){:target="_blank"}
 
+### Biosensors
++ [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf){:target="_blank"}
++ [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf){:target="_blank"}
++ [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837){:target="_blank"}
++ [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/){:target="_blank"}
++ [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769){:target="_blank"}
++ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
++ [Functional Imaging](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0896627320307674?casa_token=tnXTNiD6YEoAAAAA:PTdTDZeZH-Jc9I1Ln4wXnAxKtGmOoariK41JUqoFZUoKK_5d_wUeEma_HT6Yak3zgzURihLEOcM)
+
 ### Biological Springs
 + [Power limits in small biological and engineered systems](http://www.sciencemag.org/lookup/doi/10.1126/science.aao1082){:target="_blank"}
 + [Muscle-spring dynamics](http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2016.1561){:target="_blank"}
@@ -103,15 +112,6 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
 + [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
 + [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
-
-### Biosensors
-+ [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf){:target="_blank"}
-+ [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf){:target="_blank"}
-+ [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837){:target="_blank"}
-+ [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/){:target="_blank"}
-+ [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769){:target="_blank"}
-+ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
-+ [Functional Imaging](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0896627320307674?casa_token=tnXTNiD6YEoAAAAA:PTdTDZeZH-Jc9I1Ln4wXnAxKtGmOoariK41JUqoFZUoKK_5d_wUeEma_HT6Yak3zgzURihLEOcM)
 
 ### Nanomedicine
 + [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
