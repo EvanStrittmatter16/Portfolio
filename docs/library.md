@@ -13,15 +13,16 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Bio-inspired Robotics](#bioinspired-robotics)
 + [Biochemical Sensors](#biosensors)
 + [Photonic biosenors](#photonic-biosensors)
++ [Mechanobiology](#mechanobiology)
++ [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
++ [Biological clocks and metabolic activity](#biological-clocks-and-metabolic-activity)
 + [Biological springs](#biological-springs)
++ [Jellyfish stingers](#jellyfish-stingers)
 + [Ant Raft](#ant-rafts)
 + [Active Matter](#active-matter)
 + [Crowds](#crowds)
-+ [Jellyfish stingers](#jellyfish-stingers)
-+ [Biochemical Sensors](#biosensors)
-+ [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
-+ [Mechanobiology](#mechanobiology)
-+ [Biological clocks and metabolic activity](#biological clocks and metabolic activity)
+
+
 
 ## Presentation Topics
 
@@ -81,7 +82,25 @@ Advice for acting journal links. Many of these links will require you to connect
 ### Photonic Biosensors
 + [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/){:target="_blank"}
 + [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769){:target="_blank"}
-+ [Functional Imaging](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0896627320307674?casa_token=tnXTNiD6YEoAAAAA:PTdTDZeZH-Jc9I1Ln4wXnAxKtGmOoariK41JUqoFZUoKK_5d_wUeEma_HT6Yak3zgzURihLEOcM)
++ [Neurophotonics](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0896627320307674?casa_token=tnXTNiD6YEoAAAAA:PTdTDZeZH-Jc9I1Ln4wXnAxKtGmOoariK41JUqoFZUoKK_5d_wUeEma_HT6Yak3zgzURihLEOcM)
+
+### Mechanobiology
++ [Single Molecule Mechanics](https://www.nature.com/articles/368113a0)
++ [Mechanobiology](https://linkinghub.elsevier.com/retrieve/pii/S0167488915001536){:target="_blank"}
++ [Quantifying forces in cell biology](http://www.nature.com/doifinder/10.1038/ncb3564){:target="_blank"}
++ [Measuring cell forces](https://www.nature.com/articles/nmeth.3834){:target="_blank"}
++ [Cell deformation](http://www.nature.com/articles/nmat3574){:target="_blank"}
++ [Curvature guided motility of microalgae](https://link.aps.org/doi/10.1103/PhysRevLett.120.068002){:target="_blank"}
++ [Phototaxis - light induced motility](https://www.nature.com/articles/nphys4258){:target="_blank"}
+
+### Nanomedicine
++ [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
++ [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273){:target="_blank"}
++ [Microbial nanowires](https://www.nature.com/articles/s41589-020-0623-9.epdf){:target="_blank"}. Discussion of this article in the [popular press](https://www.syfy.com/syfywire/these-bacteria-geobacter-exhale-electricity){:target="_blank"}
+
+### Biological Clocks and Metabolic Activity
++ [Biological Clocks](https://www.nature.com/articles/s41598-020-73566-3){:target="_blank"}
++ [Metabolic activity of C. elegans](https://www.nature.com/articles/s41467-020-16690-y){:target="_blank"}
 
 ### Biological Springs
 + [Power limits in small biological and engineered systems](http://www.sciencemag.org/lookup/doi/10.1126/science.aao1082){:target="_blank"}
@@ -118,21 +137,4 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
 + [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
 
-### Nanomedicine
-+ [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
-+ [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273){:target="_blank"}
-+ [Microbial nanowires](https://www.nature.com/articles/s41589-020-0623-9.epdf){:target="_blank"}. Discussion of this article in the [popular press](https://www.syfy.com/syfywire/these-bacteria-geobacter-exhale-electricity){:target="_blank"}
 
-### Mechanobiology
-+ [Single Molecule Mechanics](https://www.nature.com/articles/368113a0)
-+ [Mechanobiology](https://linkinghub.elsevier.com/retrieve/pii/S0167488915001536){:target="_blank"}
-+ [Quantifying forces in cell biology](http://www.nature.com/doifinder/10.1038/ncb3564){:target="_blank"}
-+ [Measuring cell forces](https://www.nature.com/articles/nmeth.3834){:target="_blank"}
-+ [Cell deformation](http://www.nature.com/articles/nmat3574){:target="_blank"}
-+ [Curvature guided motility of microalgae](https://link.aps.org/doi/10.1103/PhysRevLett.120.068002){:target="_blank"}
-+ [Phototaxis - light induced motility](https://www.nature.com/articles/nphys4258){:target="_blank"}
-
-
-### Biological Clocks and Metabolic Activity
-+ [Biological Clocks](https://www.nature.com/articles/s41598-020-73566-3){:target="_blank"}
-+ [Metabolic activity of C. elegans](https://www.nature.com/articles/s41467-020-16690-y){:target="_blank"}
