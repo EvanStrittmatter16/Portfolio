@@ -7,14 +7,16 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Life at Low Reynolds' Number](#low-reynolds-number)
 + [C. elegans swimming and crawling](#c-elegans-swimming-and-crawling)
 + [Size Scaling](#size-scaling)
-+ [Ant Raft](#ant-rafts)
 + [Surface tension, swimming, jumping out of water](#surface-tension-and-jumping)
-+ [Bio-inspired Robotics](#bioinspired-robotics)
-+ [Biological springs](#biological-springs)
++ [Swimming, jumping, and flying](#swimming-jumping-and-flying)
 + [Gecko and Insect Adhesion](#gecko-and-insect-adhesion)
++ [Bio-inspired Robotics](#bioinspired-robotics)
++ [Biochemical Sensors](#biosensors)
++ [Photonic biosenors](#photonic-biosensors)
++ [Biological springs](#biological-springs)
++ [Ant Raft](#ant-rafts)
 + [Active Matter](#active-matter)
 + [Crowds](#crowds)
-+ [Swimming, jumping, and flying](#swimming-jumping-and-flying)
 + [Jellyfish stingers](#jellyfish-stingers)
 + [Biochemical Sensors](#biosensors)
 + [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
@@ -73,9 +75,12 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf){:target="_blank"}
 + [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf){:target="_blank"}
 + [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837){:target="_blank"}
++ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
+
+
+### Photonic Biosensors
 + [Nanophotonic Biosensors](https://www.osa-opn.org/home/articles/volume_31/april_2020/features/nanophotonic_biosensors_driving_personalized_medic/){:target="_blank"}
 + [Photonic Sensor Arrays](https://www.nature.com/articles/ncomms12769){:target="_blank"}
-+ [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
 + [Functional Imaging](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0896627320307674?casa_token=tnXTNiD6YEoAAAAA:PTdTDZeZH-Jc9I1Ln4wXnAxKtGmOoariK41JUqoFZUoKK_5d_wUeEma_HT6Yak3zgzURihLEOcM)
 
 ### Biological Springs
