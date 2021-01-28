@@ -14,6 +14,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Biochemical Sensors](#biosensors)
 + [Photonic biosenors](#photonic-biosensors)
 + [Mechanobiology](#mechanobiology)
++ [Motility](#motility)
 + [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
 + [Biological clocks and metabolic activity](#biological-clocks-and-metabolic-activity)
 + [Biological springs](#biological-springs)
@@ -86,10 +87,10 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ### Mechanobiology
 + [Single Molecule Mechanics](https://www.nature.com/articles/368113a0)
-+ [Mechanobiology](https://linkinghub.elsevier.com/retrieve/pii/S0167488915001536){:target="_blank"}
 + [Quantifying forces in cell biology](http://www.nature.com/doifinder/10.1038/ncb3564){:target="_blank"}
 + [Measuring cell forces](https://www.nature.com/articles/nmeth.3834){:target="_blank"}
-+ [Cell deformation](http://www.nature.com/articles/nmat3574){:target="_blank"}
+
+### Motility
 + [Curvature guided motility of microalgae](https://link.aps.org/doi/10.1103/PhysRevLett.120.068002){:target="_blank"}
 + [Phototaxis - light induced motility](https://www.nature.com/articles/nphys4258){:target="_blank"}
 
@@ -110,6 +111,10 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Shooting mechanisms in nature](http://dx.plos.org/10.1371/journal.pone.0158277){:target="_blank"}
 + [Insect jumping springs](http://www.sciencedirect.com/science/article/pii/S0960982217315336){:target="_blank"}
 
+### Jellyfish Stingers
++ [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
++ [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
++ [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
 
 ### Ant rafts
 + [Ant rafts to escape floods](http://www.pnas.org/cgi/doi/10.1073/pnas.1016658108){:target="_blank"}
@@ -132,9 +137,5 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Crowds](https://doi.org/10.1126/science.aat9891){:target="_blank"}
 
 
-### Jellyfish Stingers
-+ [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
-+ [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
-+ [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
 
 
