@@ -17,7 +17,6 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Motility](#motility)
 + [Nanomedicine and metabolic activity](#nanomedicine-and-metabolic-activity)
 + [Biological springs](#biological-springs)
-+ [Stingers and Shooting Mechanisms](#stingers-and-shooting-mechanisms)
 + [Ant Raft](#ant-rafts)
 + [Active Matter](#active-matter)
 + [Crowds](#crowds)
@@ -104,12 +103,6 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Muscle-spring dynamics](http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2016.1561){:target="_blank"}
 + [Tunable biological spring](http://www.royalsocietypublishing.org/doi/10.1098/rspb.2018.2764){:target="_blank"}
 + [Diverse roles of biological springs](http://jeb.biologists.org/cgi/doi/10.1242/jeb.038588){:target="_blank"}
-
-
-### Jellyfish Stingers
-+ [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
-+ [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
-+ [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
 + [Shooting mechanisms in nature](http://dx.plos.org/10.1371/journal.pone.0158277){:target="_blank"}
 
 ### Ant rafts
