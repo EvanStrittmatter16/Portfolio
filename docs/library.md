@@ -15,10 +15,9 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Photonic biosenors](#photonic-biosensors)
 + [Mechanobiology](#mechanobiology)
 + [Motility](#motility)
-+ [Bio-inspired therapeutics, nanomedicine, and bioelectronics](#nanomedicine)
-+ [Biological clocks and metabolic activity](#biological-clocks-and-metabolic-activity)
++ [Nanomedicine and metabolic activity](#nanomedicine-and-metabolic-activity)
 + [Biological springs](#biological-springs)
-+ [Jellyfish stingers](#jellyfish-stingers)
++ [Stingers and Shooting Mechanisms](#stingers-and-shooting-mechanisms)
 + [Ant Raft](#ant-rafts)
 + [Active Matter](#active-matter)
 + [Crowds](#crowds)
@@ -78,6 +77,8 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf){:target="_blank"}
 + [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837){:target="_blank"}
 + [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
++ [Overcoming Debye Screening](https://science.sciencemag.org/content/362/6412/319.full){:target="blank"} 
++ [Single Molecule Bioelectronics](https://www.bioee.ee.columbia.edu/wp-content/uploads/2014/01/Shepard_WIREs_2015-1.pdf){:target="blank"}
 
 
 ### Photonic Biosensors
@@ -94,27 +95,22 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Curvature guided motility of microalgae](https://link.aps.org/doi/10.1103/PhysRevLett.120.068002){:target="_blank"}
 + [Phototaxis - light induced motility](https://www.nature.com/articles/nphys4258){:target="_blank"}
 
-### Nanomedicine
-+ [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
-+ [Nanomedicine](https://www.nejm.org/doi/full/10.1056/nejmra0912273){:target="_blank"}
-+ [Microbial nanowires](https://www.nature.com/articles/s41589-020-0623-9.epdf){:target="_blank"}. Discussion of this article in the [popular press](https://www.syfy.com/syfywire/these-bacteria-geobacter-exhale-electricity){:target="_blank"}
-
-### Biological Clocks and Metabolic Activity
-+ [Biological Clocks](https://www.nature.com/articles/s41598-020-73566-3){:target="_blank"}
+### Nanomedicine and Metabolic Activity
 + [Metabolic activity of C. elegans](https://www.nature.com/articles/s41467-020-16690-y){:target="_blank"}
++ [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
 
 ### Biological Springs
 + [Power limits in small biological and engineered systems](http://www.sciencemag.org/lookup/doi/10.1126/science.aao1082){:target="_blank"}
 + [Muscle-spring dynamics](http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2016.1561){:target="_blank"}
 + [Tunable biological spring](http://www.royalsocietypublishing.org/doi/10.1098/rspb.2018.2764){:target="_blank"}
 + [Diverse roles of biological springs](http://jeb.biologists.org/cgi/doi/10.1242/jeb.038588){:target="_blank"}
-+ [Shooting mechanisms in nature](http://dx.plos.org/10.1371/journal.pone.0158277){:target="_blank"}
-+ [Insect jumping springs](http://www.sciencedirect.com/science/article/pii/S0960982217315336){:target="_blank"}
+
 
 ### Jellyfish Stingers
 + [Nematocyst's sting](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2016.0917){:target="_blank"}
 + [Biomechanics of stinging](https://linkinghub.elsevier.com/retrieve/pii/S0041010109001585){:target="_blank"}
 + [Nanosecond nematocyst discharge](https://doi.org/10.1186/s12915-014-0113-1){:target="_blank"}
++ [Shooting mechanisms in nature](http://dx.plos.org/10.1371/journal.pone.0158277){:target="_blank"}
 
 ### Ant rafts
 + [Ant rafts to escape floods](http://www.pnas.org/cgi/doi/10.1073/pnas.1016658108){:target="_blank"}
