@@ -38,6 +38,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Dimensionality and dynamics](https://doi.org/10.1371/journal.pcbi.1000028){:target="_blank"}
 
 ### Size scaling
++ [Scaling Macroscopic Aquatic Locomotion](https://www.nature.com/articles/nphys3078{:target="_blank"})
 + [General scaling law](http://www.nature.com/articles/s41559-017-0241-4){:target="_blank"} This paper can be supplemented with the following synopsis: [Why midsize animals are fastest](https://www.sciencemag.org/news/2017/07/why-midsized-animals-are-fastest-earth){:target="_blank"}
 + [Force per Area](https://royalsocietypublishing.org/doi/full/10.1098/rsos.160313){:target="_blank"}
 + [Urination](https://www.pnas.org/content/111/33/11932){:target="_blank"}
