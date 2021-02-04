@@ -56,6 +56,11 @@ You will be expected to give two twenty minute presentations on the scheduled da
 Active reading journal:
 You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2-3 papers per class period). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
 
+Here are some helpful suggestions for keeping an active reading journal:
+
++ [Active Reading Strategies](https://mcgraw.princeton.edu/active-reading-strategies){:target="_blank"}
++ [Active Reading Guidelines](https://www.nda-worc.org/uploaded/Online_Classroom_Teachers/Mrs_Krauss/Readersguidlineskrauss.pdf){:target="_blank"} (this one isn't targetted to STEM papers but conveys important distinctions between an active reading journal and a summary that apply across disciplines)
+
 ## Collaboration
 You may freely discuss the homework and papers with your classmates, including getting help and advice on your presentation and actively reading papers together. However, the submitted homework and reading journal should be prepared/written up individually.
 
