@@ -15,7 +15,7 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Photonic biosenors](#photonic-biosensors)
 + [Mechanobiology](#mechanobiology)
 + [Motility](#motility)
-+ [Nanomedicine and metabolic activity](#nanomedicine-and-metabolic-activity)
++ [Microluidics, Nanomedicine and metabolic activity](#microfluidics-nanomedicine-and-metabolic-activity)
 + [Biological springs](#biological-springs)
 + [Ant Raft](#ant-rafts)
 + [Active Matter](#active-matter)
@@ -95,7 +95,8 @@ Advice for acting journal links. Many of these links will require you to connect
 + [Curvature guided motility of microalgae](https://link.aps.org/doi/10.1103/PhysRevLett.120.068002){:target="_blank"}
 + [Phototaxis - light induced motility](https://www.nature.com/articles/nphys4258){:target="_blank"}
 
-### Nanomedicine and Metabolic Activity
+### Microluidics Nanomedicine and Metabolic Activity
++ [microfluidic sorting device](https://doi.org/10.1021/ac061542n){:target="_blank"}
 + [Metabolic activity of C. elegans](https://www.nature.com/articles/s41467-020-16690-y){:target="_blank"}
 + [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
 
