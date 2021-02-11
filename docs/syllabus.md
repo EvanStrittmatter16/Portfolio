@@ -24,7 +24,7 @@ and original research articles
 ## Workload
 
 In this course your workload will consist of:
-+ one assignment related to swimming, flow, and diffusion
++ two homework assignments based on material covered in the first two weeks
 + reading your classmates’ journal articles (~ 4-6/week) and keeping an active reading journal
 + preparing two 20 minute presentations on topics you select (spaced out over the semester)
 + provide feedback to your classmates on their presentations
@@ -34,24 +34,24 @@ In this course your workload will consist of:
 
 Grading
 Your final grade will be evaluated based on a weighted average of the following
-+ 10% for homework #1
++ 15% for homework (2 assignments)
 + 30% presentation #1
 + 30% presentation #2
 + 15% active reading journal
-+ 15% in-class participation
++ 10% in-class participation
 
 ## Assignments, Submissions and Late Policy
 
-Homework 1: Submission will be through Gradescope. 
+Homework: Submission will be through Gradescope. 
 
-Late policy for homework 1:
-Up to 6 hours late: 5%
-Up to 24 hours late: 10%
-Up to 48 hours late: 15%
-Up to 72 hours late: 20%
+Late policy for homework:
++Up to 6 hours late: 5%
++Up to 24 hours late: 10%
++Up to 48 hours late: 15%
++Up to 72 hours late: 20%
 
 Presentations:
-You will be expected to give two twenty minute presentations on the scheduled dates.
+You will be expected to give two twenty minute presentations on the scheduled dates. You are also expected to submit a copy of your slides through Gradescope before the start of class on your presentation day.
 
 Active reading journal:
 You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2-3 papers per class period). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
@@ -80,8 +80,14 @@ other Claremont Colleges should contact their home college's disability resource
 
 ## Wellness
 
+College can be stressful, and it’s important to support the physical and mental well-being of ourselves and others even as we work to learn challenging new material in courses like this one. That means getting some food, sleep, exercise and relaxation even during crunch time! If you find that you are in need of help or overwhelmed by this class, don’t hesitate to reach out to any of the course instructors or the Academic Deans at academicdeans@g.hmc.edu. We will work with you to develop a plan for success in this course.
+
 Please let me know in advance of a missed class if possible, or as soon as you can after the fact. I also know that a variety of events in life can take priority over individual class meetings. If an event in your life, public or private,is creating conflicts with class, please feel free to discuss it with me.
 
 ## Belonging
 
 Everyone who is registered for this course belongs here and has valuable contributions to make to our class. Our diversity of backgrounds, experiences, and viewpoints will enrich the classroom, and our mutual respect will enable us to feel comfortable making mistakes and learning from them.
+
+## Title IX Notification
+
+Harvey Mudd College is committed to providing an environment free of all forms of discrimination and sexual harassment, including sexual assault, domestic violence, dating violence, and stalking. If you (or someone you know) has experienced or experiences any of these incidents, know that you are not alone. I am available to talk to you if you are in need although I am obligated to report any contraventions of Title IX to the HMC Title IX Coordinator, Jennifer Alanis (jalanis@hmc.edu). If you want to speak to someone confidentially, the following resources are available on and off campus: the EmPOWER Center (909-607-2689), the Monsour Counseling Center (909-621-8202), the Project Sister Family Services’ 24-hr sexual assault hotline (909-626-4357, ask for HMC Advocates) and the McAlister Chaplains (909-621-8685). Additional information about your options is also available at https://www.hmc.edu/tix.
