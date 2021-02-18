@@ -26,7 +26,7 @@ and original research articles
 In this course your workload will consist of:
 + two homework assignments based on material covered in the first two weeks
 + reading your classmates’ journal articles (~ 4-6/week) and keeping an active reading journal
-+ preparing two 20 minute presentations on topics you select (spaced out over the semester)
++ preparing two 25-30 minute presentations on topics you select (spaced out over the half-semester)
 + provide feedback to your classmates on their presentations
 + participate in class discussion and ask questions during your classmates’ presentations
 
