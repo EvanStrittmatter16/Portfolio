@@ -27,7 +27,7 @@ Advice for acting journal links. Many of these links will require you to connect
 
 ## Low Reynolds Number
 + [Life at Low Reynolds' Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
-+ [Life around the Scallop Theorem](https://www.damtp.cam.ac.uk/user/lauga/papers/49.pdf)
++ [Locomotion on Small Scales](https://www.damtp.cam.ac.uk/user/lauga/papers/49.pdf)
 + [Biotechnology at Low Reynold's Numbers](papers/Brody_BiophyJ1996.pdf){:target="_blank"}
 + [Microfluidics: Fluid Physics at the Nanoscale](papers/Squires&Quake_RMPhys2005.pdf){:target="_blank"}
 
