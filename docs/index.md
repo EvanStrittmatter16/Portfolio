@@ -3,4 +3,4 @@
 + [Syllabus](syllabus)
 + [Homework](homework)
 + [library of Reference Papers for Presentations](library)
-+ [Additional Background Reference Materisal](additional-references)
++ [Additional Background Reference Materials](additional-references)
