@@ -33,7 +33,7 @@ In this course your workload will consist of:
 ## Grading
 
 Grading
-Your final grade will be evaluated based on a weighted average of the following
+Your final grade will be evaluated based on a weighted average of the following:
 + 15% for homework (2 assignments)
 + 30% presentation #1
 + 30% presentation #2
@@ -45,10 +45,10 @@ Your final grade will be evaluated based on a weighted average of the following
 Homework: Submission will be through Gradescope. 
 
 Late policy for homework:
-+Up to 6 hours late: 5%
-+Up to 24 hours late: 10%
-+Up to 48 hours late: 15%
-+Up to 72 hours late: 20%
++ Up to 6 hours late: 5%
++ Up to 24 hours late: 10%
++ Up to 48 hours late: 15%
++ Up to 72 hours late: 20%
 
 Presentations:
 You will be expected to give two twenty minute presentations on the scheduled dates. You are also expected to submit a copy of your slides through Gradescope before the start of class on your presentation day.
