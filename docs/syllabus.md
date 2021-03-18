@@ -54,7 +54,7 @@ Presentations:
 You will be expected to give two 25-30 minute presentations on scheduled dates. You are also expected to submit a copy of your slides through Gradescope before the start of class on your presentation day.
 
 Active reading journal:
-You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2-3 papers per class period). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
+You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2 papers per class period). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
 
 Here are some helpful suggestions for keeping an active reading journal:
 
