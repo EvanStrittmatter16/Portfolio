@@ -9,15 +9,13 @@ Classroom discussion board ([Slack](https://join.slack.com/t/g-v0c9269/shared_in
 
 ## Course Description
 
-Biophysics involves the use of techniques from physics to study and describe living systems. Ideas are borrowed from equilibrium & non-equilibrium statistical mechanics, polymer physics, classical & continuum mechanics, and electrodynamics to probe and describe admittedly complex biological systems. In this course, we will explore how diffusion, flow, and swimming behavior impact biolocomotion as well as biomolecular signaling and detection. We will examine how the size of an organism and its interaction with the environment can have significant consequences for movement. This course will be taught in a seminar format. Students will learn to approach a new research field and develop a coherent understanding based on review articles and original research articles.
+Biophysics involves the use of techniques from physics to study and describe living systems. Ideas are borrowed from equilibrium & non-equilibrium statistical mechanics, polymer physics, classical & continuum mechanics, and electrodynamics to probe and describe admittedly complex biological systems. In this course, we will explore how diffusion, flow, and swimming behavior impact biolocomotion as well as biomolecular signaling and detection. We will examine how the size of an organism and its interaction with the environment can have significant consequences for movement. This course will be taught in a seminar format. Students will learn to approach a new research field and develop a coherent understanding based on review articles and original research articles. Topics will be influenced by student interest.
 
 ## Course Goals
 
 After this course you will be able to:
-+ Describe how classical and statistical mechanics have been successfully applied to
-biolocomotion
-+ Approach a new research field and develop a coherent understanding based on review articles
-and original research articles
++ Describe a few ways in which some of the principles and techniques you have learned in your physics courses can be used in the study of biological systems
++ Approach a new research field and develop a coherent understanding based on review articles and original research articles
 + Give a presentation on a primary research article
 + Provide constructive feedback on presentations
 
@@ -25,7 +23,7 @@ and original research articles
 
 In this course your workload will consist of:
 + two homework assignments based on material covered in the first two weeks
-+ reading your classmates’ journal articles (~ 4-6/week) and keeping an active reading journal
++ reading your classmates’ journal articles (~ 4/week) and keeping an active reading journal
 + preparing two 25-30 minute presentations on topics you select (spaced out over the half-semester)
 + provide feedback to your classmates on their presentations
 + participate in class discussion and ask questions during your classmates’ presentations (each presentation will be followed by a discussion/question period)
@@ -51,10 +49,10 @@ Late policy for homework:
 + Up to 72 hours late: 20%
 
 Presentations:
-You will be expected to give two 25-30 minute presentations on scheduled dates. You are also expected to submit a copy of your slides through Gradescope before the start of class on your presentation day.
+You will be expected to give two 25-30 minute presentations on scheduled dates. You are also expected to submit a copy of your slides through Gradescope before the start of class on your presentation days.
 
 Active reading journal:
-You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2 papers per class period). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
+You will be expected to read and keep an active reading journal for each of the papers to be presented by your classmates (2 papers per class period during presentation weeks). You may choose the format for the active reading journal, but should submit it through gradescope. The active reading journal is due at the start of each class in which papers will be presented covering all papers to be presented in class. 
 
 Here are some helpful suggestions for keeping an active reading journal:
 
