@@ -43,10 +43,10 @@ Your final grade will be evaluated based on a weighted average of the following:
 Homework: Submission will be through Gradescope. 
 
 Late policy for homework:
-+ Up to 6 hours late: 5%
-+ Up to 24 hours late: 10%
-+ Up to 48 hours late: 15%
-+ Up to 72 hours late: 20%
++ Up to 6 hours late: 5% of the total available points
++ Up to 24 hours late: 10% of the total available points
++ Up to 48 hours late: 15% of the total available points
++ Up to 72 hours late: 20% of the total available points
 
 Presentations:
 You will be expected to give two 25-30 minute presentations on scheduled dates. You are also expected to submit a copy of your slides through Gradescope before the start of class on your presentation days.
