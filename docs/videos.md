@@ -1,6 +1,6 @@
 Lecture #1: Monday, March 22, 2021 - Introduction and Overview of Presentation Topics
 
-Video of lecture:
+Video of lecture (click on the image to open):
 
 [<img src="images/Ph174-lect1.png" alt="intro" width="400"/>](https://drive.google.com/file/d/1UQvSS9e-fB56iaaZ6GmNFWkBDsYrd9M8/view?usp=sharing){:target="_blank"} 
 
