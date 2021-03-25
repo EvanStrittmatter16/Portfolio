@@ -11,6 +11,6 @@ Lecture #2: Wednesday, March 23, 2021 - Understanding why swimming is different 
 
 [<img src="images/Ph174-lect2.png" alt="intro" width="400"/>](https://drive.google.com/file/d/1lpP4_D45WdUCTd1omAJEn1K0enWov9K9/view?usp=sharing){:target="_blank"} 
 
-[Click here to download Lecture 2 notes](https://drive.google.com/file/d/1j4kWxab2vvs-LTymFc3YzUSofVjUYalJ/view?usp=sharing){:target="_blank"}
+[Click here to download Lecture 2 notes](https://drive.google.com/file/d/1a_M20OadAcegLKflYTUKGvh3W2zSAZx0/view?usp=sharing){:target="_blank"}
 
 [Click here to download Lecture 2 slides](https://drive.google.com/file/d/1LB1WSayiKOVfLZkkN6H-NCOQifIxu5A_/view?usp=sharing){:target="_blank"}
