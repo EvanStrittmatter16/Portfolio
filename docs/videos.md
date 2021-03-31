@@ -17,4 +17,8 @@ Lecture #2: Wednesday, March 23, 2021 - Understanding why swimming is different 
 
 Lecture #3: Monday, March 29, 2021 - Reversibility of Flow at Low Reynolds’ Number / Exploring Advection and Diffusion
 
+[<img src="images/Ph174-lect2.png" alt="intro" width="400"/>](https://drive.google.com/file/d/1oVM_cfgddK-NWgOWJOsxyCdt83C7jHvj/view?usp=sharing){:target="_blank"} 
+
+[Click here to download Lecture 3 slides](https://drive.google.com/file/d/1SM7K3BPCaTXpSOq2ImkY0mJ5cRH1XPwQ/view?usp=sharing){:target="_blank"}
+
 [Click here to download Lecture 3 notes](https://drive.google.com/file/d/13cMLfxy6VptjxvsGPH7yFTlJml2LTZfV/view?usp=sharing){:target="_blank"}
