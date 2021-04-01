@@ -1,6 +1,6 @@
 # Physics 174: Reference Library
 
-Advice for acting journal links. Many of these links will require you to connect through VPN to verify your HMC credentials (or other Claremont college) in order to access library subscriptions. 
+Advice for accessing journal links: many of these links will require you to connect through VPN to verify your HMC credentials (or other Claremont college) in order to access library subscriptions. 
 
 [Presentation Topics](#presentation-topics)
 
