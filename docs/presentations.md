@@ -14,7 +14,7 @@ Yilin
 
 ## Wednesday, April 7
 Ruby
-+ [Soft Autonomous Robots](http://www.nature.com/articles/nature19100){:target="_blank"}
++ [Soft Autonomous Robots](https://www-nature-com.ccl.idm.oclc.org/articles/s41586-020-03153-z.pdf){:target="_blank"}
 
 Toby
 + [Elasticity and stem cell differentiation](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0092867406009615){:target=_blank"}
