@@ -44,7 +44,7 @@ Toby
 
 ## Wednesday, April 28
 Andres
-+ [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
++ [Timescales and stereotyped behavior](https://doi.org/10.1073/pnas.1007868108){:target="_blank"}
 
 Ian
 + [Power law governing pedestrian interactions](https://link.aps.org/doi/10.1103/PhysRevLett.113.238701){:target="_blank"}
