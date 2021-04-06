@@ -34,8 +34,9 @@ Advice for accessing journal links: many of these links will require you to conn
 + [Viscoelastic properties of C. elegans](https://doi.org/10.1073/pnas.1219965110){:target="_blank"}
 + [Tangling of tethered swimmers](https://doi.org/10.1103/PhysRevLett.113.138101){:target="_blank"}
 + [Neurobiology of Locomotion](https://doi.org/10.1093/biosci/biu058){:target="_blank"}
-+ [Timescales and stereotyped behavior](https://doi.org/10.1073/pnas.1007868108){:target="_blank"}
 + [Dimensionality and dynamics](https://doi.org/10.1371/journal.pcbi.1000028){:target="_blank"}
++ [Timescales and stereotyped behavior](https://doi.org/10.1073/pnas.1007868108){:target="_blank"}
+
 
 ### Size scaling
 + [Scaling Macroscopic Aquatic Locomotion](https://www.nature.com/articles/nphys3078{:target="_blank"})
