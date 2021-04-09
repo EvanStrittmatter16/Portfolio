@@ -92,7 +92,6 @@ Advice for accessing journal links: many of these links will require you to conn
 + [Single Molecule Mechanics](https://www.nature.com/articles/368113a0)
 + [Quantifying forces in cell biology](http://www.nature.com/doifinder/10.1038/ncb3564){:target="_blank"}
 + [Measuring cell forces](https://www.nature.com/articles/nmeth.3834){:target="_blank"}
-+ [Elasticity and stem cell differentiation](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S0092867406009615){:target=_blank"}
 
 ### Motility
 + [Curvature guided motility of microalgae](https://link.aps.org/doi/10.1103/PhysRevLett.120.068002){:target="_blank"}
