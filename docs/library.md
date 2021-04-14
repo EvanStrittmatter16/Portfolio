@@ -76,7 +76,6 @@ Advice for accessing journal links: many of these links will require you to conn
 
 ### Biosensors
 + [Making it stick](papers/Squires&Manalis_NatBiotech08.pdf){:target="_blank"}
-+ [Considerations for biochemical sensing](papers/Arlett_NatureNano2011.pdf){:target="_blank"}
 + [Breathprinting and early diagnosis of lung cancer](https://www-sciencedirect-com.ccl.idm.oclc.org/science/article/pii/S1556086418301837){:target="_blank"}
 + [Nanowires for Meausuring Binding Kinetics](papers/Duan_NatureNano2012.pdf){:target="_blank"}
 + [Overcoming Debye Screening](https://science.sciencemag.org/content/362/6412/319.full){:target="blank"} 
