@@ -37,7 +37,7 @@ Ian
 
 ## Monday, April 26
 Yilin
-+ [Tunable biological spring](http://www.royalsocietypublishing.org/doi/10.1098/rspb.2018.2764){:target="_blank"}
++ [Muscle-spring dynamics](http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2016.1561){:target="_blank"}
 
 Toby
 + [Magnetotactic bacteria](http://www.sciencedirect.com/science/article/pii/B9780323429931000100){:target="_blank"}
