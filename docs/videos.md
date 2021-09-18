@@ -28,5 +28,9 @@ Lecture #4: Wednesday, March 31, 2021 - Lecture 4: Beyond fluid dynamics: Electr
 I apologize - the recording is missing the first 2 slides as I was late to turn on the recording. Hopefully those slides are fairly self explanatory and can be seen in the slide deck. Also for this recording you will need the following passcode: 38P0XVU#  
 [<img src="images/lect4.png" alt="intro" width="400"/>](https://hmc-edu.zoom.us/rec/share/zUDYAvIl98L_dCy3aOA7ZOZzGekVjNVzfJ0SKGHK3Ke013nMJt2-b_qAqj3nBozo.Tka_kPBpGUvNSw-n){:target="_blank"} 
 
-[Click here to download Lecture 4 slides](https://drive.google.com/file/d/1PPfIS1SEwyKXIHp5ahq83CpREfXOKong/view?usp=sharing}{:target="_blank"}
+[Click here to download Lecture 4 slides](https://drive.google.com/file/d/1PPfIS1SEwyKXIHp5ahq83CpREfXOKong/view?usp=sharing){:target="_blank"}
+
+
+
+
 
