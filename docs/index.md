@@ -1,8 +1,8 @@
 # Physics 174 
 
-+ [Syllabus](syllabus)
-+ [Lecture videos and slides](videos)
-+ [Homework](homework)
-+ [Presentation schedule with links to papers](presentations)
-+ [library of Reference Papers for Presentations](library)
-+ [Additional Background Reference Materials](additional-references)
++ [Resume/About Me](syllabus)
++ [Control of a Robotic hand and Arm](videos)
++ [Inductance modeling for an IC in COMSOL](homework)
++ [Reed lab](presentations)
++ [Projects before Yale](library)
++ [Publications/Talks](additional-references)
