@@ -1,8 +1,9 @@
 # Evan Strittmatter - Portfolio
 
-+ [Resume/About Me](syllabus)
-+ [Control of a Robotic hand and Arm](videos)
-+ [Inductance modeling for an IC in COMSOL](homework)
-+ [Reed lab](presentations)
-+ [Projects before Yale](library)
-+ [Publications/Talks](additional-references)
++ [Resume/About Me](resume)
++ [Control of a Robotic hand and Arm](Robot)
++ [Inductance modeling for an IC in COMSOL](EPC)
++ [Reed lab](lab)
++ [Projects before Yale](highschool)
++ [volunteer work](volunteer)
++ [Publications/Talks](publications)
