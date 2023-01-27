@@ -1,3 +1,8 @@
-+ [Life at Low Reynolds' Number](papers/Purcell_AJPhys1977.pdf){:target="_blank"}
-+ [The Biological Frontier of Physics](https://physicstoday.scitation.org/doi/10.1063/1.2216960)
-+ [Chapter 12](references/Israelchvili-TOC&Ch12.pdf) from Israelchvili's book "Intermolecular and Surface Forces" provides a framework for understanding surface interactions in liquid including Debye screening.
+# Projects at Reed Lab
+###### Oct 2020 - Nov 2021
+[Homework #1](images/Ph174-HW1.pdf){:target="_blank"} 
+Image ex. 
+
+
+## Objectives and Process
+I think this is my weakest subsection, and possibly worth deleting. The most exciting thing I did was geta publication and thats already shown in the publications sections
