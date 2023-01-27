@@ -1,4 +1,5 @@
-## Presentation schedule and links to papers
+# Presentation schedule and links to papers
+this is example of how to link publications
 Advice for accessing journal links: many of these links will require you to connect through VPN to verify your HMC credentials (or other Claremont college) in order to access library subscriptions. 
 
 [Click on this link for advice for preparing your presentations.](images/Ph174-Presentation-Advice.pdf) 
