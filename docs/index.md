@@ -1,4 +1,4 @@
-# Physics 174 
+# Evan Strittmatter - Portfolio
 
 + [Resume/About Me](syllabus)
 + [Control of a Robotic hand and Arm](videos)
