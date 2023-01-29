@@ -1,6 +1,6 @@
 # Projects at Reed Lab
 ###### Oct 2020 - Nov 2021
-[Homework #1](images/Ph174-HW1.pdf){:target="_blank"} 
+
 Image ex. 
 
 
