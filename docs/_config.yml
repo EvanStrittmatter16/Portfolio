@@ -1,13 +1,20 @@
-title: Home <br> 
+# title: Home <br> 
+# logo: /images/ProfilePic.jpeg
+# description: Do a quick about me here
+# show_downloads: false
+# google_analytics:
+# theme: jekyll-theme-minimal
+# relative_links:
+#   enabled:     true
+#   collections: false
+# highlighter: rouge
+# markdown: kramdown
+# kramdown:
+#   parse_block_html: true
+ 
+title: Leap Day theme
 logo: /images/ProfilePic.jpeg
-description: Do a quick about me here
-show_downloads: false
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
-relative_links:
-  enabled:     true
-  collections: false
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+theme: jekyll-theme-leap-day
