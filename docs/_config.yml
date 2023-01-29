@@ -13,7 +13,7 @@
 #   parse_block_html: true
  
 title: Leap Day theme
-logo: /images/ProfilePic.jpeg
+#logo: /images/ProfilePic.jpeg
 description: Leap Day is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
